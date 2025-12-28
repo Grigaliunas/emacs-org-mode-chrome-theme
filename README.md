@@ -13,7 +13,7 @@ This is a **Chrome theme extension** .
 4. Select this folder: `emacs-org-mode-chrome-theme/`
 
 ## Theme colors used
-All colors come from `index.html` CSS:
+All CSS colors:
 - frame: #383838
 - toolbar: #282828
 - ntp_background: #1c1c1c
